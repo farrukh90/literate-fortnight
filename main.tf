@@ -59,3 +59,9 @@ resource "aws_security_group" "allow_tls2" {
     Name = "allow_tls"
   }
 }
+resource "foo" "bar" {
+# TODO
+}
+resource "foo" "bar" {
+# TODO
+}
